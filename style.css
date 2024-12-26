@@ -209,6 +209,11 @@ a {
 
 
 @media (max-width: 768px) {
+    .profile {
+    height: 35vh;
+    }
+
+    
     .profile img {
         height: 140px;
         width: 140px;
