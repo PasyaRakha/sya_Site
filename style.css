@@ -70,6 +70,7 @@ video {
     width: 180px;
     height: 180px;
     border-radius: 50%;
+    border: 1px solid #112a46;
 }
 
 .photo {
@@ -118,7 +119,7 @@ a {
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 0.05rem;
-    border: 1px solid #112a46; /* Border semi-transparan */
+    border: 1px solid #112a46;
     padding: 0.8rem 2.1rem;
     background: rgba(255, 255, 255, 0.1); /* Warna transparan untuk glassmorphism */
     backdrop-filter: blur(8px); /* Efek blur */
